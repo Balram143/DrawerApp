@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640751711733",
+    "project_id": "login-ffb74",
+    "storage_bucket": "login-ffb74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640751711733:android:3e558184b4c7276664dcbc",
+        "android_client_info": {
+          "package_name": "com.drawerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640751711733-7o4slhcv4i55h88d4ppdtlkh4sa1r7dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAiFb6yxBeiUJXKGZRY-WBpEO9ywGm_VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640751711733-7o4slhcv4i55h88d4ppdtlkh4sa1r7dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
